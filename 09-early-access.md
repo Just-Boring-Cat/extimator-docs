@@ -1,6 +1,10 @@
 # Early Access Notes
 
-Extimator is in early access. This means some features are still being refined.
+[← Documentation home](./README)
+
+Extimator is in early access. This means features are still being refined, and you may see changes in UI, defaults, and availability over time.
+
+---
 
 ## What is available
 
@@ -18,6 +22,21 @@ Extimator is in early access. This means some features are still being refined.
 
 Access is approved in waves. If your access is pending, you will be notified by email when approved.
 
+---
+
+## How to give useful feedback
+
+If you spot an issue or want an improvement, include:
+- what you expected to happen
+- what actually happened
+- steps to reproduce
+- screenshots (if relevant)
+
 ## Next step
 
-If something looks wrong, check Troubleshooting.
+Continue with: [Troubleshooting](./10-troubleshooting.md)
+
+---
+
+**Previous:** [Profile and Preferences](./08-profile-preferences.md)  
+**Next:** [Troubleshooting](./10-troubleshooting.md)

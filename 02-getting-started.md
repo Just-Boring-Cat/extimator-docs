@@ -1,14 +1,24 @@
 # Getting Started
 
+[← Documentation home](./README)
+
 This section explains how to access Extimator and create your first estimate.
 
-## Access the app
+---
+
+## 1. Access the app
 
 - Open the Extimator site and select Sign in
 - Enter your email and complete the verification
 - Use the magic link in your email to access the workspace
 
-## Create your first project
+Tips:
+- If you do not receive the email, check spam and promotions.
+- Magic links expire. If the link fails, request a new one.
+
+---
+
+## 2. Create your first project
 
 1. Click New Estimation
 2. Name the project
@@ -17,11 +27,29 @@ This section explains how to access Extimator and create your first estimate.
 5. Review totals and sprint settings
 6. Click Save
 
-## Save behavior
+---
 
-- New projects stay in the browser until you click Save
-- Unsaved changes prompt you before you switch projects
+## Save behavior and drafts
+
+- New projects can exist as a draft until you click **Save**.
+- If you made changes and try to switch projects, Extimator prompts you before you leave.
+- For best results, save before exporting so totals and summaries are up to date.
+
+---
+
+## Recommended first estimate checklist
+
+When you create your first project, keep it simple:
+- 3 to 6 categories
+- 5 to 15 tasks total
+- 2 to 6 roles
+- rough hour ranges, refine later
 
 ## Next step
 
-Read Core Concepts to understand how projects, tasks, and roles work together.
+Continue with: [Core Concepts](./03-core-concepts.md)
+
+---
+
+**Previous:** [What is Extimator?](./01-what-is-extimator.md)  
+**Next:** [Core Concepts](./03-core-concepts.md)
